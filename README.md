@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and problem-solving.
 
-## 🚀 About Me
+## 🚀 About ME
 - 🔭 I’m currently working on **software development projects**
 - 🌱 I’m currently learning **C, Python, and C++**
 - 👯 I’m looking to collaborate on **open-source projects**
