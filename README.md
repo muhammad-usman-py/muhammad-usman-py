@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
   - [Facebook](https://web.facebook.com/muhammad.usman.py)
   - [Twitter (X)](https://x.com/usjutt07)
 
-## 📫 How to reach me:
-- [GitHub](https://github.com/muhammad-usman-py)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-usman-py)
-- [Facebook](https://web.facebook.com/muhammad.usman.py)
-- [Twitter (X)](https://x.com/usjutt07)
+## 💻 Technologies & Tools
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ## ⚡ Fun Fact
 I love exploring new technologies and bringing ideas to life through code! 🚀
