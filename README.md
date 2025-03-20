@@ -43,18 +43,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
 
-## 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=muhammad-usman-py&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=muhammad-usman-py&theme=default&hide_border=false&include_all_commits=false&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-py&theme=default&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-py&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-py&theme=default&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=muhammad-usman-py&theme=default&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=muhammad-usman-py&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
@@ -65,28 +62,13 @@
 
 ---
 
-## 📬 Connect with Me  
+## 🔗 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/muhammad-usman-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-py/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/muhammad.usman.py/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad-usman-py/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/usjutt07)
 
-<p align="center">
-  <a href="https://muhammad-usman-py.github.io/usmandev.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/muhammad-usman-py" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-usman-py/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/usjutt07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://web.facebook.com/muhammad.usman.py/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/muhammad-usman-py" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 ---
 
