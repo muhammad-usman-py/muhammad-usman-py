@@ -51,11 +51,11 @@
 
 ---
 
-## 📢 Connect with Me  
+## 📬 Connect with Me  
 
 <p align="center">
   <a href="https://muhammad-usman-py.github.io/usmandev.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/muhammad-usman-py" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -63,14 +63,14 @@
   <a href="https://www.linkedin.com/in/muhammad-usman-py/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://x.com/usjutt07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
   <a href="https://web.facebook.com/muhammad.usman.py/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/muhammad.usman.py/" target="_blank">
+  <a href="https://www.instagram.com/muhammad-usman-py" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/usjutt07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
