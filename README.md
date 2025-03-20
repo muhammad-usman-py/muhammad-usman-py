@@ -1,27 +1,61 @@
-# Hi there, I'm Muhammad Usman! 👋
+<h1 align="center">Hi there, I'm Muhammad Usman! 👋</h1>
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and problem-solving.
+## 🚀 About Me  
+🎯 Passionate Python Developer | Data Enthusiast | Open Source Contributor  
 
-## 🚀 About ME
-- 🔭 I’m currently working on **software development projects**
-- 🌱 I’m currently learning **C, Python, and C++**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💡 Always eager to explore and learn new technologies
-- 📫 How to reach me: 
-  - [GitHub](https://github.com/muhammad-usman-py)
-  - [LinkedIn](https://www.linkedin.com/in/muhammad-usman-py)
-  - [Facebook](https://web.facebook.com/muhammad.usman.py)
-  - [Twitter (X)](https://x.com/usjutt07)
+- 🔭 Currently working on **Web Development & AI Projects**  
+- 🌱 Learning **Python, Django, C++, and Machine Learning**  
+- 💡 I love **solving problems** and **exploring new technologies**  
+- 💬 Ask me about **Python, Django, and Data Science**  
+- 👯 Looking to collaborate on **open-source & AI projects**  
 
-## 💻 Technologies & Tools
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+---
+
+## 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+---
 
-## ⚡ Fun Fact
-I love exploring new technologies and bringing ideas to life through code! 🚀
-<!---
-muhammad-usman-py/muhammad-usman-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-usman-py&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-py&theme=dark" height="165">
+</p>
+
+---
+
+## 🏆 Top Projects  
+🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio  
+🔹 **[AI Chatbot](https://github.com/muhammad-usman-py/AI-Chatbot)** → NLP-based chatbot  
+🔹 **[Django Blog](https://github.com/muhammad-usman-py/Django-Blog)** → Full-stack blog with Django  
+
+---
+
+## 📢 Connect with Me  
+<p align="center">
+  <a href="https://muhammad-usman-py.github.io/usmandev.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-usmandev.tech-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/muhammad-usman-py" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-py/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://web.facebook.com/muhammad.usman.py/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/muhammad.usman.py/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://x.com/usjutt07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter">
+  </a>
+</p>
+
+---
+
+🌟 **If you like my work, consider giving a ⭐ on my projects!**  
