@@ -57,8 +57,8 @@
 
 ## 🏆 Top Projects  
 🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio  
-🔹 **[AI Chatbot](https://github.com/muhammad-usman-py/AI-Chatbot)** → NLP-based chatbot  
-🔹 **[Django Blog](https://github.com/muhammad-usman-py/Django-Blog)** → Full-stack blog with Django  
+🔹 **[KBC-Quiz](https://github.com/muhammad-usman-py/Kaun-Banega-Crorepati-Quiz-Edition)** → Kaun Banega Crorepati Quiz Edition   
+🔹 **[Two-Value-Calc](https://github.com/muhammad-usman-py/Basic-Two-Value-Calculator)** → Basic Two-Value Calculator
 
 ---
 
