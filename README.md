@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Usman! 👋</h1>
 
 ## 🚀 About Me  
+#I am a dedicated student with a strong interest in software development and programming. Currently exploring coding through hands-on projects in C, Python & C++
 🎯 Passionate Python Developer | Data Enthusiast | Open Source Contributor  
 
 - 🔭 Currently working on **Web Development & AI Projects**  
