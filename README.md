@@ -59,7 +59,7 @@ I am a dedicated student with a strong interest in software development and prog
 🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio  
 🔹 **[KBC-Quiz](https://github.com/muhammad-usman-py/Kaun-Banega-Crorepati-Quiz-Edition)** → Kaun Banega Crorepati Quiz Edition   
 🔹 **[Two-Value-Calc](https://github.com/muhammad-usman-py/Basic-Two-Value-Calculator)** → Basic Two-Value Calculator
-🔹 **[Secret-Coder](https://muhammad-usman-py.github.io/Secret-Message-Encoder-Decoder/)** → Secret Code Message Encoder & Decoder  
+🔹 **[Secret-Coder](https://muhammad-usman-py.github.io/Secret-Message-Encoder-Decoder/)** → Secret Code Message Encoder & Decoder  <br>
 🔗 [GitHub Repository](https://github.com/muhammad-usman-py/Secret-Message-Encoder-Decoder)
 
 ---
