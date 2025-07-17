@@ -56,10 +56,12 @@ I am a dedicated student with a strong interest in software development and prog
 ---
 
 ## 🏆 Top Projects  
-🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio  
-🔹 **[KBC-Quiz](https://github.com/muhammad-usman-py/Kaun-Banega-Crorepati-Quiz-Edition)** → Kaun Banega Crorepati Quiz Edition   
-🔹 **[Two-Value-Calc](https://github.com/muhammad-usman-py/Basic-Two-Value-Calculator)** → Basic Two-Value Calculator <br>
+🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio
+🔹 **[GPA-calculator](https://github.com/muhammad-usman-py/GPA-calculator)** → GPA calculator
+🔹 **[Login-authentication](https://github.com/muhammad-usman-py/login-authentication)** → Login Authentication
+🔹 **[Basic-Inventory-Management-System](https://github.com/muhammad-usman-py/basic-inventory-management-system)** → Basic Inventory Management System <br>
 🔹 **[Secret-Coder](https://muhammad-usman-py.github.io/Secret-Message-Encoder-Decoder/)** → Secret Code Message Encoder & Decoder
+🔹 **[Mini-Bank-Account-Manager](https://github.com/muhammad-usman-py/mini-bank-account-manager)** → Mini Bank Account Manager
 🔗 [GitHub Repository](https://github.com/muhammad-usman-py/Secret-Message-Encoder-Decoder)
 
 ---
