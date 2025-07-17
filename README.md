@@ -56,15 +56,12 @@ I am a dedicated student with a strong interest in software development and prog
 ---
 
 ## 🏆 Top Projects  
-🔹 <strong><a href="https://muhammad-usman-py.github.io/usmandev.tech/">UsmanDev.Tech</a></strong> → Personal Portfolio<br>
-🔹 <strong><a href="https://github.com/muhammad-usman-py/GPA-calculator">GPA-calculator</a></strong> → GPA calculator<br>
-🔹 <strong><a href="https://github.com/muhammad-usman-py/login-authentication">Login-authentication</a></strong> → Login Authentication<br>
-🔹 <strong><a href="https://github.com/muhammad-usman-py/basic-inventory-management-system">Basic-Inventory-Management-System</a></strong> → Basic Inventory Management System<br>
-🔹 <strong><a href="https://muhammad-usman-py.github.io/Secret-Message-Encoder-Decoder/">Secret-Coder</a></strong> → Secret Code Message Encoder & Decoder<br>
-🔹 <strong><a href="https://github.com/muhammad-usman-py/mini-bank-account-manager">Mini-Bank-Account-Manager</a></strong> → Mini Bank Account Manager<br>
-🔗 <a href="https://github.com/muhammad-usman-py/Secret-Message-Encoder-Decoder">GitHub Repository</a>
-
-🔗 [GitHub Repository](https://github.com/muhammad-usman-py/Secret-Message-Encoder-Decoder)
+🔹 **[UsmanDev.Tech](https://muhammad-usman-py.github.io/usmandev.tech/)** → Personal Portfolio <br>
+🔹 **[GPA-calculator](https://github.com/muhammad-usman-py/GPA-calculator)** → GPA calculator <br>
+🔹 **[Login-authentication](https://github.com/muhammad-usman-py/login-authentication)** → Login Authentication <br>
+🔹 **[Basic-Inventory-Management-System](https://github.com/muhammad-usman-py/basic-inventory-management-system)** → Basic Inventory Management System <br>
+🔹 **[Secret-Coder](https://muhammad-usman-py.github.io/Secret-Message-Encoder-Decoder/)** → Secret Code Message Encoder & Decoder 🔗[Link → Repo](https://github.com/muhammad-usman-py/Secret-Message-Encoder-Decoder)<br> 
+🔹 **[Mini-Bank-Account-Manager](https://github.com/muhammad-usman-py/mini-bank-account-manager)** → Mini Bank Account Manager <br>
 
 ---
 
