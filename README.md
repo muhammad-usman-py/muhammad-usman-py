@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Muhammad Usman! 👋</h1>
 
 ## 🚀 About Me  
-I am a dedicated student with a strong interest in software development and programming. Currently exploring coding through hands-on projects in C, Python & C++
+👋 Hi, I’m Muhammad Usman – 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 𝗣𝘆𝘁𝗵𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 
 
-- 🔭 Currently working on **Web Development & AI Projects**  
-- 🌱 Learning **Python, Django, C++, and Machine Learning**  
-- 💡 I love **solving problems** and **exploring new technologies**  
-- 💬 Ask me about **Python, Django, and Data Science**  
-- 👯 Looking to collaborate on **open-source & AI projects**  
+I’m currently pursuing my 𝗕𝗦 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗙𝗔𝗦𝗧 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗜𝘀𝗹𝗮𝗺𝗮𝗯𝗮𝗱, while diving deep into the world of Python, data handling, and automation. Step by step, I’m learning, building projects, and sharing my journey online.
+
+📬 𝗟𝗲𝘁’𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁!
+I’m here to learn, grow, and connect with like-minded people. If you’re a developer, data scientist, mentor, or fellow learner — I’d love to hear from you! 
 
 ---
 
