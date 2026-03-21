@@ -1,12 +1,16 @@
-<h1 align="center">Hi there, I'm Muhammad Usman! 👋</h1>
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3776AB&size=30&center=true&vCenter=true&width=700&height=100&lines=Hi+there,+I'm+Muhammad+Usman!+👋;BS+Data+Science+@+FAST-NUCES;Python+Learner+%26+Data+Enthusiast;Building+cool+stuff+step+by+step...">
+  </a>
+</h1>
 
 ## 🚀 About Me  
-👋 Hi, I’m Muhammad Usman – 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 𝗣𝘆𝘁𝗵𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 
+👋 Hi, I’m Muhammad Usman – **Data Science Student** | **Python Learner** I’m currently pursuing my **BS in Data Science at FAST National University, Islamabad**, while diving deep into the world of Python, data handling, and automation. Step by step, I’m learning, building projects, and sharing my journey online.
 
-I’m currently pursuing my 𝗕𝗦 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗙𝗔𝗦𝗧 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗜𝘀𝗹𝗮𝗺𝗮𝗯𝗮𝗱, while diving deep into the world of Python, data handling, and automation. Step by step, I’m learning, building projects, and sharing my journey online.
-
-📬 𝗟𝗲𝘁’𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁!
+📬 **Let’s Connect!**
 I’m here to learn, grow, and connect with like-minded people. If you’re a developer, data scientist, mentor, or fellow learner — I’d love to hear from you! 
+
+--- 
 
 ---
 
