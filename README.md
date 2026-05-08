@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3776AB&size=30&center=true&vCenter=true&width=700&height=100&lines=Hi+there,+I'm+Muhammad+Usman!+👋;BS+Data+Science+@+FAST-NUCES;Python+Learner+%26+Data+Enthusiast;Building+cool+stuff+step+by+step...">
   </a>
