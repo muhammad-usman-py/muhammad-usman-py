@@ -4,8 +4,10 @@
   </a>
 </h1>
 
+👋 Hi, I’m Muhammad Usman
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammad-usman-py.muhammad-usman-py)
 ## 🚀 About Me  
-👋 Hi, I’m Muhammad Usman – **Data Science Student** | **Python Learner** I’m currently pursuing my **BS in Data Science at FAST National University, Islamabad**, while diving deep into the world of Python, data handling, and automation. Step by step, I’m learning, building projects, and sharing my journey online.
+ **Data Science Student** | **Python Learner** I’m currently pursuing my **BS in Data Science at FAST National University, Islamabad**, while diving deep into the world of Python, data handling, and automation. Step by step, I’m learning, building projects, and sharing my journey online.
 
 📬 **Let’s Connect!**
 I’m here to learn, grow, and connect with like-minded people. If you’re a developer, data scientist, mentor, or fellow learner — I’d love to hear from you! 
@@ -79,3 +81,5 @@ I’m here to learn, grow, and connect with like-minded people. If you’re a de
               
 
 🌟 **If you like my work, consider giving a ⭐ on my projects!**  
+
+
